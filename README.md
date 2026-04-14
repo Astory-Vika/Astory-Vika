@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=1000&color=39FF8A&center=true&vCenter=true&random=false&width=600&lines=%24+whoami;AI+Security+Researcher+%40+Cambridge;Adversarial+ML+%7C+LLM+Red-Teaming+%7C+Cybercrime;Building+and+breaking+ML+systems;PhD+Candidate+%7C+ML+Engineer+%7C+CTF+Player)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=1000&color=39FF8A&center=true&vCenter=true&random=false&width=600&lines=%24+whoami;AI+Security+Researcher+%40+Cambridge;Adversarial+ML+%7C+LLM+Red-Teaming+%7C+Cybercrime;Building+and+breaking+ML+systems;CS+Student+%7C+ML+Engineer+%7C+CTF+Player)](https://git.io/typing-svg)
 
 </div>
 
@@ -87,35 +87,7 @@ Gradient inversion attacks, differential privacy, secure aggregation, and member
 
 ---
 
-### `// stats`
 
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Astory-Vika&show_icons=true&hide_border=true&bg_color=080b0f&title_color=39ff8a&icon_color=39ff8a&text_color=c9d1d9&ring_color=39ff8a" />
-  &nbsp;
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Astory-Vika&layout=compact&hide_border=true&bg_color=080b0f&title_color=39ff8a&text_color=c9d1d9" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Astory-Vika&hide_border=true&background=080b0f&stroke=161b22&ring=39ff8a&fire=39ff8a&currStreakLabel=39ff8a&sideLabels=c9d1d9&currStreakNum=e6edf3&sideNums=e6edf3&dates=8b949e" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Astory-Vika&bg_color=080b0f&color=39ff8a&line=39ff8a&point=e6edf3&area=true&area_color=39ff8a&hide_border=true" width="95%"/>
-</div>
-
----
-
-<div align="center">
-
-```
-va0x@cambridge:~$ cat contact.txt
-```
-
-[![Portfolio](https://img.shields.io/badge/astafievaai.com-080b0f?style=for-the-badge&logo=googlechrome&logoColor=39ff8a)](https://astafievaai.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-080b0f?style=for-the-badge&logo=linkedin&logoColor=39ff8a)](https://www.linkedin.com/in/viktoriia-astafieva/)
 [![Twitter](https://img.shields.io/badge/@astafievaai-080b0f?style=for-the-badge&logo=x&logoColor=39ff8a)](https://x.com/astafievaai)
 [![Email](https://img.shields.io/badge/Email-080b0f?style=for-the-badge&logo=gmail&logoColor=39ff8a)](mailto:vikaastafyevaa@gmail.com)
