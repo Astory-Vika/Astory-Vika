@@ -10,15 +10,7 @@
 va0x@cambridge:~$ cat about.txt
 ```
 
-I'm an ML engineer and PhD researcher at the **University of Cambridge**. My work sits at the intersection of **machine learning**, **cybercrime investigation**, and **AI security** — from adversarial attacks on neural networks to detecting criminal infrastructure at scale with law enforcement partners.
-
-```
-├── 📍 Cambridge, UK
-├── 🎓 PhD Computer Science — University of Cambridge
-├── 🔬 Adversarial ML · LLM Security · Cyber Threat Intel
-├── 🏴 CTF Player — #31 globally (0xCambridge)
-└── 🌐 astafievaai.com
-```
+I'm an ML engineer and MPhil researcher at the **University of Cambridge**. My work sits at the intersection of **machine learning**, **cybercrime investigation**, and **AI security**.
 
 ---
 
@@ -92,14 +84,6 @@ Gradient inversion attacks, differential privacy, secure aggregation, and member
 
 ---
 
-### `// publications`
-
-```
-IEEE S&P 2026   PromptInject: Systematic Prompt Injection Against Agentic LLMs
-NeurIPS 2025    Certified Robustness via Randomised Smoothing for VLMs
-USENIX Sec 2025 C2 Detection at Scale via Passive DNS Graph Neural Networks
-CCS 2024        GradLeak: Reconstructing Training Data from Gradients
-```
 
 ---
 
