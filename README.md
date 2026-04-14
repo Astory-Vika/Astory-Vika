@@ -6,9 +6,6 @@
 
 </div>
 
-```
-va0x@cambridge:~$ cat about.txt
-```
 
 I'm an ML engineer and MPhil researcher at the **University of Cambridge**. My work sits at the intersection of **machine learning**, **cybercrime investigation**, and **AI security**.
 
