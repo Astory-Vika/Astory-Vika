@@ -46,18 +46,66 @@ Gradient inversion attacks, differential privacy, secure aggregation, and member
 
 ---
 
+### `// ml interests`
+
+<table>
+<tr>
+<td width="50%">
+
+**`[01] Model Fine-Tuning`**
+Full fine-tuning, LoRA, QLoRA, and PEFT methods for LLMs and vision models. RLHF, DPO, and instruction tuning pipelines. Domain adaptation and catastrophic forgetting mitigation.
+
+</td>
+<td width="50%">
+
+**`[02] Classification`**
+Text, image, and network traffic classification. Multi-label and hierarchical classification. Transformer-based classifiers, ensemble methods, and uncertainty quantification.
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+**`[03] Generative Models`**
+Diffusion models, GANs, and autoregressive LLMs. Prompt engineering, RAG pipelines, and agentic systems. Safety evaluation and red-teaming of generative AI.
+
+</td>
+<td width="50%">
+
+**`[04] ML Systems & Efficiency`**
+Quantization (GPTQ, AWQ, GGUF), model distillation, and kernel optimization. Mixed-precision training, gradient checkpointing, and distributed fine-tuning at scale.
+
+</td>
+</tr>
+</table>
+
+---
+
 ### `// skills`
 
 <div align="center">
+
+**Languages**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
 ![CUDA](https://img.shields.io/badge/CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+
+**ML / AI**
+
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![JAX](https://img.shields.io/badge/JAX-A435F0?style=flat-square&logo=google&logoColor=white)
 ![Triton](https://img.shields.io/badge/Triton-1A1A2E?style=flat-square&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+
+**Fine-Tuning & LLMOps:** `LoRA` · `QLoRA` · `PEFT` · `DeepSpeed` · `vLLM` · `LangChain` · `Axolotl` · `TRL`
+
+**Infra**
+
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/K8s-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 ![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
@@ -69,21 +117,6 @@ Gradient inversion attacks, differential privacy, secure aggregation, and member
 </div>
 
 ---
-
-### `// selected work`
-
-| Project | Description | Stack |
-|---------|-------------|-------|
-| **AdvBench** | Evaluation harness for attack resistance of vision & language models. 40+ attacks, live leaderboard. | `PyTorch` `FastAPI` `React` |
-| **JailKit** | Red-teaming toolkit for automated LLM jailbreak discovery via evolutionary search & transfer attacks. | `Python` `OpenAI API` `DEAP` |
-| **C2Radar** | Real-time ML pipeline for detecting C2 infrastructure from passive DNS and NetFlow data. | `Rust` `XGBoost` `Kafka` |
-| **GradLeak** | Gradient inversion attack toolkit demonstrating privacy leakage in federated learning. | `PyTorch` `JAX` |
-
----
-
-
----
-
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-080b0f?style=for-the-badge&logo=linkedin&logoColor=39ff8a)](https://www.linkedin.com/in/viktoriia-astafieva/)
 [![Twitter](https://img.shields.io/badge/@astafievaai-080b0f?style=for-the-badge&logo=x&logoColor=39ff8a)](https://x.com/astafievaai)
